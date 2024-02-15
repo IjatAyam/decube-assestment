@@ -1,0 +1,6 @@
+
+[typescript:S6767"3'params' PropType is defined but prop is never used(¦µÔúúÿÿÿÿ8°ÎÂßÚ1
+ƒtypescript:S1172"aRemove the unused function parameter "props" or rename it to "_props" to make intention explicit.(”Ëàu8°ÎÂßÚ1
+Otypescript:S6759"-Mark the props of the component as read-only.(”Ëàu8°ÎÂßÚ1
+Etypescript:S2966"Forbidden non-null assertion.(ê–®„øÿÿÿÿ8°ÎÂßÚ1
+?typescript:S106"Unexpected console statement.(ïæ­ñ8°ÎÂßÚ1
